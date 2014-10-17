@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xow:home|Door43 (xow)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xow|d43-xow repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xow/archive/master.zip|d43-xow.zip]]
+
+**Recent Changes**
+{{changes>ns = xow}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xow|Ethnologue data]]
+
